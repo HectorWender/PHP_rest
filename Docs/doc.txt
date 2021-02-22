@@ -1,0 +1,23 @@
+----USER
+
+  input               output
+  email         
+  name          
+  password      
+
+----LOGIN
+
+  input               output
+  password            iduser
+  email               name
+                      email
+                      drink_counter   
+ 
+
+  ----DRINK
+
+  input               output
+  drink_ml (int)      iduser
+                      email
+                      name
+                      drink_counter
